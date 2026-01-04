@@ -1,6 +1,6 @@
 <!-- 
 :convenience_store: Bazar Julio Cesar
-Commit Message:  Arrow Fix
+Commit Message: Meta, Fav Icon and Og Image
 -->
 
 # 🏪 Bazar Julio Cesar Imperador
