@@ -1,6 +1,6 @@
 <!-- 
 :convenience_store: Bazar Julio Cesar
-Commit Message:  Footer Fix
+Commit Message:  Arrow Fix
 -->
 
 # 🏪 Bazar Julio Cesar Imperador
